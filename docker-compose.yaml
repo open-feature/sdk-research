@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   demo:
-    image: ghcr.io/open-feature/playground-app:v0.16.0 # x-release-please-version
+    image: ghcr.io/open-feature/playground-app:v0.17.0 # x-release-please-version
     # build:
     #  dockerfile: ./packages/app/Dockerfile
     #  context: .
@@ -51,7 +51,7 @@ services:
       - CONFIGCAT_SDK_KEY_WEB
 
   fib-service:
-    image: ghcr.io/open-feature/playground-fib-service:v0.16.0 # x-release-please-version
+    image: ghcr.io/open-feature/playground-fib-service:v0.17.0 # x-release-please-version
     # build:
     #   dockerfile: ./packages/fibonacci-service/Dockerfile
     #   context: .
