@@ -75,7 +75,7 @@
     "@babel/preset-react": "^7.23.3",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
-    "@mui/material": "^5.15.2",
+    "@mui/material": "^6.0.0",
     "@nestjs/schematics": "10.2.3",
     "@nestjs/testing": "10.4.15",
     "@nrwl/tao": "17.3.2",
